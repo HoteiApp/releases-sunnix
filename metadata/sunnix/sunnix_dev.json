@@ -1,0 +1,11 @@
+{
+  "releases": [
+    {
+      "version": "v0.0.1-dev-90470e7",
+      "changelog": "### Features\n- Implementación del módulo integral de gestión de clientes en TCM (Targeted Case Management)\n- Sistema de creación y seguimiento de casos con ciclo de vida completo\n- Gestión de notas y documentación de casos con cumplimiento HIPAA\n- Sistema de aprobaciones de múltiples niveles jerarchícos\n- Notificaciones multicanal (in-app, email, SMS, push)\n- Interfaz de usuario responsive con componentes modernos\n- Sistema de autenticación de usuarios con integración LDAP\n- Módulo de facturación basado en unidades de servicio\n\n### Improvements\n- Optimización del backend en Go con Fiber para manejo de workflows de TCM\n- Mejoras en la interfaz de usuario del frontend React\n- Refactorización de controladores de gestión de clientes\n- Actualización de dependencias del proyecto (Go 1.23, React, Fiber)\n- Mejoras en el rendimiento de la base de datos MySQL con GORM\n- Optimización de llamadas API gRPC\n- Implementación de sistema de auditoría trazable\n\n### Fixes\n- Corrección de errores en el proceso de creación de casos\n- Resolución de problemas en la gestión de supervisiones\n- Fix en la validación de formularios de documentación\n- Corrección de errores en el cálculo de facturación\n- Mejora en el manejo de estados del ciclo de vida del caso\n\n### Testing Notes\n- Build de desarrollo para pruebas internas del sistema TCM\n- No recomendado para uso en producción\n- Contiene características experimentales del flujo de aprobaciones que pueden cambiar\n- Pruebas de roles y permisos (TCM, TCMS, QA, HR, MG)\n- Se agradece el feedback para la próxima versión estable\n- Pruebas especiales requeridas para el módulo de supervisiones y auditoría",
+      "releaseUrl": "https://github.com/HoteiApp/releases-sunnix/releases/download/v0.0.1-dev-90470e7/sunnix-Windows-v0.0.1-dev-90470e7.exe",
+      "allReleasesUrl": "https://github.com/HoteiApp/releases-sunnix/releases",
+      "date": "2025-12-15"
+    }
+  ]
+}
