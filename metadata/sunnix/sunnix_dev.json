@@ -1,9 +1,9 @@
 {
   "releases": [
     {
-      "version": "v0.0.1-android-dev-55b4f3d",
+      "version": "v0.0.1-android-dev-f270343",
       "changelog": "\n### 🧪 Versión de Testing\n- ✅ Aplicación móvil Flutter para Android\n- ✅ Sistema de autenticación con login y 2FA\n- ✅ Diario personal con eventos, supervisión y pagos\n- ✅ Vista de calendario con navegación por meses\n- ✅ Gestión de clientes activos\n- ✅ Grabación y reproducción de notas de voz\n- ✅ Sistema de temas claro/oscuro\n- ✅ Perfil de usuario y configuración\n- ✅ Integración completa con API backend\n- 🔧 Modo de desarrollo y depuración\n\n### 🎨 Mejoras de UI/UX\n- ✅ Diseño responsive con contenedores de fondo personalizados\n- ✅ Widget de calendario con selector de meses y años\n- ✅ Vista de agenda diaria con timeline horario\n- ✅ Indicadores visuales para elementos con audio\n- ✅ Animaciones suaves para transiciones de estado\n- ✅ Mensajes de error mejorados en formularios\n\n### 🔧 Funcionalidades Técnicas\n- ✅ Manejo de estado con providers y servicios\n- ✅ Almacenamiento local con SharedPreferences\n- ✅ Reproductor de audio integrado\n- ✅ Procesamiento de fechas y formatos\n- ✅ Limpieza de contenido HTML en notas\n- ✅ Gestión de sesiones de usuario",
-      "releaseUrl": "https://github.com/HoteiApp/releases-sunnix/releases/download/v0.0.1-android-dev-55b4f3d/",
+      "releaseUrl": "https://github.com/HoteiApp/releases-sunnix/releases/download/v0.0.1-android-dev-f270343/",
       "allReleasesUrl": "https://github.com/HoteiApp/releases-sunnix/releases",
       "date": "2026-01-16"
     }
