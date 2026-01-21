@@ -1,0 +1,11 @@
+{
+  "releases": [
+    {
+      "version": "v0.0.1",
+      "changelog": "### Features\n- Lanzamiento inicial de la plataforma Sunnix para TCM (Targeted Case Management)\n- Módulo integral de gestión de clientes en servicios de salud mental\n- Sistema de creación y seguimiento de casos completo (admisión → documentación → supervisión → facturación → cierre)\n- Gestión de notas y documentación de casos con cumplimiento HIPAA\n- Sistema de aprobaciones de múltiples niveles (TCM → Supervisor → QA → Facturación)\n- Notificaciones multicanal (in-app, email, SMS, push)\n- Interfaz de usuario responsive con componentes modernos\n- Sistema de autenticación de usuarios con integración LDAP\n- Módulo de facturación basado en unidades de servicio\n\n### Improvements\n- Diseño UI/UX optimizado para plataforma de gestión de casos de salud mental\n- Optimización del backend en Go con Fiber para manejo de workflows de TCM\n- Mejoras en la interfaz de usuario del frontend React\n- Refactorización de controladores de gestión de clientes\n- Mejoras en el rendimiento de la base de datos MySQL con GORM\n- Optimización de llamadas API gRPC para servicios de autenticación y facturación\n- Implementación de auditoría trazable para cumplimiento normativo\n\n### Fixes\n- Corrección de errores en el proceso de creación de casos\n- Resolución de problemas en la gestión de supervisiones y aprobaciones\n- Fix en la validación de formularios de documentación\n- Corrección de errores en el cálculo de facturación por unidades\n- Mejora en el manejo de estados del ciclo de vida del caso\n\n### Known Issues\n- Problemas menores de visualización en dispositivos móviles\n- Ocasional lentitud en la carga con grandes volúmenes de casos\n- Limitaciones en la integración con ciertos proveedores de servicios SMS",
+      "releaseUrl": "https://github.com/HoteiApp/releases-sunnix/releases/download/v0.0.1/sunnix-Windows-v0.0.1.exe",
+      "allReleasesUrl": "https://github.com/HoteiApp/releases-sunnix/releases",
+      "date": "2026-01-21"
+    }
+  ]
+}
